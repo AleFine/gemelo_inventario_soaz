@@ -1,0 +1,10 @@
+{
+  "title": "Gemelo digital de inventario – Comercializadora SOAZ",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Parimango Gómez, Kevin Esteeven", "affiliation": "Universidad Nacional de Trujillo", "orcid": "0000-0000-0000-0000"},
+    {"name": "Gutiérrez Díaz, José Luis", "affiliation": "Universidad Nacional de Trujillo", "orcid": "0000-0000-0000-0000"}
+  ],
+  "keywords": ["digital twin", "inventory management", "discrete-event simulation", "censored demand", "Shapley values"]
+}
